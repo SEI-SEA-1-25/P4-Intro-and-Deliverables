@@ -2,7 +2,7 @@
 
 ---
 
-### <center > ⓵
+# <center > ⓵
 
 ---
 
@@ -24,7 +24,7 @@ COULD BE PROBLEMS:
 
 ---
 
-### <center> ⓶
+# <center> ⓶
 
 ---
 |  <center >🤓 Noob-Friendly Whiteboarding 🤓
@@ -43,7 +43,7 @@ USERS:
 COULD BE PROBLEMS:
 - How to moderate behavior without over-accomidating whiners
 ---
-### <center> ⓷
+# <center> ⓷
 ---
 
 | <center>🥸 Rec-Augment Anonymization 🥸
