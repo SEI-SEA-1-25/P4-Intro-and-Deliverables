@@ -10,11 +10,18 @@ Come up with **three project ideas** and answer the following questions about __
 4. Any potential roadblocks you think you might run into?
 
 Spirograph Generator using D3.js 
-specifically working with paths and animation
-1. tutorials 
-2. learn D3
-3. someone who likes spirographs
-4. d3 is complicated
+specifically working with paths and transition animations
+1. How do you plan on learning/implementing this new technology? 
+    tutorials 
+2. What is your goal with this project?
+    learn D3
+3. Who is the user for your app?
+    someone who likes spirographs
+4. Any potential roadblocks you think you might run into?
+    d3 is complicated 
+Stretch goals could be incorporating some kind of data to determine the spirograph points 
+and/or setting up users and a database to save/share users spirographs
+
 
 or 
 
