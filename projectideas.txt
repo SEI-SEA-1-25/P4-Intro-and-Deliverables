@@ -1,7 +1,6 @@
 Come up with three project ideas and answer the following questions about each of them:
 
-
--------------------IDEA 1: Choose your own adventure!--------------------------
+-------------------IDEA 1: 🗡🦄🧜‍♂️ Choose your own adventure! 🧜‍♂️🦄🗡--------------------------
 1. How do you plan on learning/implementing this new technology?
     I want to use javascript to create a logic driven game. There will be mernAuth, 
     plenty of CSS styling, and many out comes. I would also like to animate each page of the
@@ -19,7 +18,7 @@ Come up with three project ideas and answer the following questions about each o
     I plan on making the game fairly complex, so I would really get into setting state
     and more math-y JS.
 
--------------------IDEA 2: Photo Editor------------------------------
+-------------------IDEA 2: 📸 Photo Editor 📸 ------------------------------
 1. How do you plan on learning/implementing this new technology?
     I plan on using DS.js, canvas, JS and CSS tp create a mostly front-end app.
     I would also need a form to input the user's photo. Maybe a small mongoDB library
@@ -39,7 +38,7 @@ Come up with three project ideas and answer the following questions about each o
     They seem to be using combining powerful visualization components and a data-driven 
     approach to DOM manipulation. I would like to use many interesting methods.
 
--------------------IDEA 2: Fun Child's Educational/Game App------------------------------
+-------------------IDEA 2: 👦🖍🔤 Fun Child's Educational/Game 🔤🖍👦------------------------------
 1. How do you plan on learning/implementing this new technology?
     This app would have 4 different main pages. 
 
