@@ -7,8 +7,8 @@ Home for Good
 - Not enough stretch
 
 Mock Words with Friends
-- Use Typescript, Python and Flask
-- Create a mock Boggle game
+- Use Python and Express
+- Make a fake version of words with friends
 - People who like word games
 - Not hitting MVP
 
