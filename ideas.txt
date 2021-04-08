@@ -1,0 +1,11 @@
+Chess application using python django 
+
+machine learning - turning a picture into cartoon, weird ai, or recognizing sign language/written characters
+
+bitcoin/ stock price predictor
+
+portfolio app using flask
+
+weather app
+
+geography quiz/code 
