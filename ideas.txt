@@ -1,0 +1,21 @@
+Chess application using python django 
+
+**game of life
+
+machine learning - turning a picture into cartoon, weird ai, or recognizing sign language/written characters
+
+bitcoin/ stock price predictor
+
+portfolio app using flask
+
+weather app
+
+geography quiz/code 
+
+train ai to figure out petals of the rose
+
+sudokus and crosswords
+
+chatbot
+
+tetris
