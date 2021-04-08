@@ -1,0 +1,58 @@
+Come up with three project ideas and answer the following questions about each of them:
+
+
+-------------------IDEA 1: Choose your own adventure!--------------------------
+1. How do you plan on learning/implementing this new technology?
+    I want to use javascript to create a logic driven game. There will be mernAuth, 
+    plenty of CSS styling, and many out comes. I would also like to animate each page of the
+    game using CSS animation & Canvas.
+
+2. What is your goal with this project?
+    The goal of this project would be to cement my knowledge of Javascript Logic,
+    better understand storing data with MongoDB and improve my skills at creating
+    something beautiful and interactive.
+
+3. Who is the user for your app?
+    This app would mostly be for teens, or anyone who enjoys high-fantasy.
+
+4. Any potential roadblocks you think you might run into?
+    I plan on making the game fairly complex, so I would really get into setting state
+    and more math-y JS.
+
+-------------------IDEA 2: Photo Editor------------------------------
+1. How do you plan on learning/implementing this new technology?
+    I plan on using DS.js, canvas, JS and CSS tp create a mostly front-end app.
+    I would also need a form to input the user's photo. Maybe a small mongoDB library
+    of example photos.
+
+2. What is your goal with this project?
+    The goal of this project would to be hone in on what different techs 
+    I can use to create a user friendly website, where the user can fully 
+    make their pictures look professional... or like a work of art.  
+
+3. Who is the user for your app?
+    This application would be more for adults, really anyone who needs a very
+    easy way to spruce up their photos.
+
+4. Any potential roadblocks you think you might run into?
+    I am interested in a bunch of artistic examples on D3.js' website.
+    They seem to be using combining powerful visualization components and a data-driven 
+    approach to DOM manipulation. I would like to use many interesting methods.
+
+-------------------IDEA 2: Fun Child's Educational/Game App------------------------------
+1. How do you plan on learning/implementing this new technology?
+    This app would have 4 different main pages. 
+
+2. What is your goal with this project?
+    Each page would do something rather different
+    than the others. This would give me a lot of choices on showcasing learned, and 
+    new techs. It would include a "paint shop"- like a artist studio, an animated game--
+    something like my P1 but much more polished, a very simple quiz game-- something to do with 
+    spelling or colors and a "choose your own adventure" game.
+  
+
+3. Who is the user for your app?
+    For children ages 4-7 years old.
+
+4. Any potential roadblocks you think you might run into?
+    Just given the sheer amount I would need to accomplish with this.
