@@ -1,0 +1,47 @@
+Project #1
+
+BoxOff V2.
+BoxOff is a movie recommendation app that is based on users' moods. The first iteration of this project was done in
+EJS framework.However,this version will be revamped with ReactJS framework.
+
+Tech: React, Node | Express, Mongo
+
+Q: How do you plan on learning/implementing this new technology?
+A: Goal is to solidify my knowledge of the ReactJS framework as well as various backend technologies
+
+Q: What is your goal with this project?
+A: A complete project would be part of my online portfolio
+
+Q: Who is the user for your app?
+A: Average movie goers between 18 - 60 years old.
+
+Q: Any potential roadblocks you think you might run into?
+A: Not enough time to hit all the stretch goals
+
+
+
+Project #2
+
+SocialSponsors
+SocialSponsors is an app that provides sponsorship opportunities to companies looking to capitalize on social media
+influencers popularity on platforms such as YouTube, Instagram etc.
+
+
+Tech: Python, Django, Mongo
+
+Q: How do you plan on learning/implementing this new technology?
+
+A: Using APIs to fetch data from social media platforms, and filtering data to include users' subscribers, about info
+categories, average views.
+Display relevant information on the app, and allow companies to inquire sponsorship opportunities directly. 
+
+Q: What is your goal with this project?
+
+A: To include as part of my online portfolio
+
+
+Q: Who is the user for your app?
+A: Advertising | marketing agencies, companies, media buyers
+
+Q: Any potential roadblocks you think you might run into?
+A: Utilizing newly acquired knowledge in Python to build a viable product. 
