@@ -6,9 +6,9 @@ Home for Good
 - Volunteers/Activists, people experiencing homelessness, and homeless services providers
 - Not enough stretch
 
-Mock Words with Friends
+Fake Boggle
 - Use Python and Express
-- Make a fake version of words with friends
+- Make a fake version of Boggle
 - People who like word games
 - Not hitting MVP
 
