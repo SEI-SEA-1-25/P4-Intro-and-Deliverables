@@ -1,0 +1,20 @@
+Working Solo
+
+Home for Good 
+- Use Flask, Mapbox and Python 
+- Rebuild HousedHealthySafe
+- Volunteers/Activists, people experiencing homelessness, and homeless services providers
+- Not enough stretch
+
+Mock Words with Friends
+- Use Typescript, Python and Flask
+- Create a mock Boggle game
+- People who like word games
+- Not hitting MVP
+
+WordCross'd Puzzler 2
+- Python and Flask
+- Rework WordCross'd puzzler
+- People who like word games
+- Not enough Stretch
+
