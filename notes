@@ -1,0 +1,25 @@
+* done all in python
+
+Machine Learning Projects
+* music recommender 
+    - music data set, tableau + python?
+    - user can log in and create an account
+    - after signing up, they have to input their music tastes and app will generate a list of songs for user
+* chihuahua or muffin??     
+    - computer vision and image recognition api (google cloud vision, microsoft computer vision)
+* LA housing market predictor
+    - utilize data from realor association (see if i can even access/understand it)
+    - build a model that takes in data and predict how much properties will sell for
+    - panda 
+* Image recognition app
+
+Data Driven Projects
+* Netflix Analyzer
+    - need to downlaod my viewing activity
+    - utilize python and panda in a jupyter notebook
+    - make very pretty graphs about how much I watch Community and the Office
+
+More creative and visual based apps (also python)
+* Studio Ghibli movie/song site
+    - utilize an api but only studio ghibli based
+    - bootstrap, material-ui
