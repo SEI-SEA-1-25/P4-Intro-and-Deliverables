@@ -1,0 +1,68 @@
+P4 ideas 
+
+
+Idea #1
+
+Create a mern stack that implements d3.js to render charts of player data coming from the balldontlie.api
+// alternatively
+use the coinMarketCap api 
+(https://coinmarketcap.com/api/documentation/v1/#section/Endpoint-Overview)
+
+I am really interested in applying at a job at coinbase after I graduate and I think this would help my case. The nice to have's are to use ruby. 
+
+I would like to speak to someone about how easy the implementation would be and then make my decision. 
+
+How do you plan on learning/implementing this new technology?
+Use the MERN stack plus d3.js
+What is your goal with this project?
+Create something cool
+Who is the user for your app?
+NBA geeks/statheads
+//alternatively 
+people interested in the crypto market
+Any potential roadblocks you think you might run into?
+I forsee having issues with the coinmarket api so I need to make sure read all the documentation.
+
+Idea #2
+
+Learn ruby to create a full stack web app using the IBM text to speech api.
+(https://cloud.ibm.com/apidocs/text-to-speech#introduction)
+(https://www.ibm.com/cloud/watson-text-to-speech/pricing)
+(https://cloud.ibm.com/docs/account?topic=account-userapikey#manage-user-keys)
+
+How do you plan on learning/implementing this new technology?
+Using either psql/mongo, ruby, and rails 
+What is your goal with this project?
+Learn as much as possible 
+Who is the user for your app?
+Anyone that needs a quick translation, is deaf, or is learning a new language 
+Any potential roadblocks you think you might run into?
+
+Figuring the implemention of the speech from the API. Im assumming i would need an additional technology to 
+play the sounds. 
+
+
+Idea #3
+Book marketplace where you can list a book for sale
+
+How do you plan on learning/implementing this new technology?
+Would love to build this app using django and python
+What is your goal with this project?
+Make something cool
+Who is the user for your app?
+people that deeply care about books or just inherited a ton of books and needs to sell them. Very niche
+Any potential roadblocks you think you might run into?
+Creating a marketplace. 
+
+(there are several book api's in the github api resources web page, would love some help to select the right one)
+
+
+
+
+
+
+
+
+
+sidenotes// would love to spend some time talking about the useability of the spotify api
+(https://developer.spotify.com/documentation/general/guides/app-settings/#register-your-app)
