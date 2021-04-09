@@ -54,7 +54,6 @@ people that deeply care about books or just inherited a ton of books and needs t
 Any potential roadblocks you think you might run into?
 Creating a marketplace. 
 
-
 (there are several book api's in the github api resources web page, would love some help to select the right one)
 
 

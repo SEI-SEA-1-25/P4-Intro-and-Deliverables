@@ -1,0 +1,8 @@
+As a user, I want to be able to create an account
+As a user, I want to be able to log into my account
+As a user, I want to be able to log out of my account
+As a user, I want to be able to edit and account
+As a user, I want to be able to keep a watchlist of crypto's 
+As a user, I want to see data about the crypto's recent performance
+As a user, I want to be able to see all cryptos available in the market
+As a user, I want to be provided with resources to learn more about crypto
