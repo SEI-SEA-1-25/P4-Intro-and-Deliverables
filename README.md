@@ -1,25 +1,25 @@
-Idea 1:
+What is the project?
 
-Stonkhub 2.0 the publicly visible trading application. – But this time With REAL MONEY.
+# Portfolio.dev
+
+Instead of paying $10-$20 per year to host your dev portfolio(which you likely will take down at some point), host it for free on portfolio.dev. Host it permanently
+
+We store your static html and css and then serve it up to a customized url
+
+Proof of concept, to be delivered on Monday: Prove that static, vanilla HTML can be entered by a user, stored in the DB persistently, and served up to another user on the web. 
+
+(UI may be similar to Codepen except OUTPUT is displayed instead of CODE)
 
 
-GET READY TO LOSE MONEY
-...OR WIN BIG
- 
 
-DON’T TELL ME WHAT STOCKS YOU LIKE, SHOW ME WHAT’S IN YOUR PORTFOLIO  
+User stories:
 
-Idea 2:
+* User inputs static HTML and CSS.
+* They click a button, wait a few seconds, and see the result render on the webpage.
+* User should be able to style up a MULTI-PAGE website with customiable links
+	* If this proves difficult, the user should be able to at least fill in a pre-populated set of links
+* Great project = customizability
+* Good project = FREE functionality for end user to build dev portfolio (MVP)
 
-Group Portfolio (as brainstormed by related group)
+![image](images/p4_idea.png)
 
-Idea 3:
-
-End-to-end encrypted Twitter
-
-Front-end will generate a private key and save it to user’s local machine
-
-Back-end will store encrypted tweets
-
-Limitations: Will require 1 DB entry PER follower, for every tweet. (encrypted with follower’s public key)
-Workaround: Cap # of people an account can follow
