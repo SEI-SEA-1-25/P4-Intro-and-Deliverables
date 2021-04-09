@@ -1,0 +1,18 @@
+Project 4 options:
+
+All 3 of the options will be a MERN stack app styled with bootstrap
+
+Emoji Fish:  
+  This is a refurb of my p1.
+  With this project, I'd like to make an entertaining and engaging app for people ranging in ages 8 - 80.
+  A big roadblock for me would be the styling to make the game look the way I'd like it to.
+
+Favong:
+  This is a refurb of my p2.
+  With this project, I'd like to target anyone who is interested in learning about the ins and outs of their favorite artist. User should be able to chat with other users.
+  A big roadblock for me would be utilizing socket.io
+
+Happenings:
+  This is an entirely new creation. 
+  With this project, I'd like to create an event finder app for when we can all go back outside. I would utilize mapbox along with ticketmaster and other apis to access events.
+  A big roadblock for me would be getting started and socket.io.

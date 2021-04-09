@@ -1,0 +1,5 @@
+User will be able to enter a search term, sign up, and/or login on the home page
+If user clicks signup, they will be brought to another page to enter their email address and create a username and password. Once they fill that out, they will be brought to their newly formed profile page.
+If user clicks login, they will be brought to another page to input their username and email address. After they successfully login, they will be brought to their profile page.
+User will be able to search without signing up or in, they will not be permitted to comment on or save anything
+User will be able to search for music by entering the artist's name or track name and the app will return information about the artist and/or track.
