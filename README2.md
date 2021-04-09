@@ -13,5 +13,5 @@
 * As a user, I want to use emoji's on my chats
 
 # Wireframes 
-![wireframe](/P4-Intro-and-Deliverables/wireframe/homepage.png)
-![wireframe](/P4-Intro-and-Deliverables/wireframe/loggedInPage.png)
+![wireframe](/wireframe/homepage.png)
+![wireframe](/wireframe/loggedInPage.png)
