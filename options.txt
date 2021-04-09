@@ -15,4 +15,4 @@ Favong:
 Happenings:
   This is an entirely new creation. 
   With this project, I'd like to create an event finder app for when we can all go back outside. I would utilize mapbox along with ticketmaster and other apis to access events.
-  A big roadblock for me would be getting started.
+  A big roadblock for me would be getting started and socket.io.
