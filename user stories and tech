@@ -1,0 +1,27 @@
+Fake Boggle
+
+MVP:
+- As a user (AAU), I want to be able to search for words, three letters or 
+longer in length, in the adjacent tiles (across, down, forwards, backwards, 
+and diagonally) of a 16x16 grid of random letters, A-Z.
+- AAU, I want to be able to enter these words into a text box, and if they 
+ exist in the dictionary, have the points corresponding to the length 
+ of the word added to my score (3-4: 1pt., 5: 2pts., 6: 3pts., 7: 5pts., or
+ 8+: 5pts.), and have my total score and previously entered words displayed.
+
+Stretch: 
+- Tiered leader board (or non-tiered, if every game board is randomized )
+- Multi-player (Socket.io)
+- Multiple grid sizes 
+- Option to display word definitions
+- Some sort of a daily grid
+- Mobile-friendly
+- Time-elapsed
+- Randomize letter directions
+- Calculate total possible points
+
+Tech: 
+- Python (or JavaScript, depending on whether I could render the puzzle 
+logic with Python), React, Express, and the WordsAPI. In addition, I would like 
+to include Socket.io as a stretch goal.
+
