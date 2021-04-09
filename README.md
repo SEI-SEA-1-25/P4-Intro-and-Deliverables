@@ -30,6 +30,8 @@ COULD BE PROBLEMS:
  Study - how to impliment the following
  
  https://hackerthemes.com/kit/ "customize BS variables"
+ 
+ apply some logic to automate classname alternation
 
 ##  
 
