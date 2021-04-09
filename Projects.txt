@@ -45,3 +45,7 @@ A: Advertising | marketing agencies, companies, media buyers
 
 Q: Any potential roadblocks you think you might run into?
 A: Utilizing newly acquired knowledge in Python to build a viable product. 
+
+
+Project #3
+Data Visuali
