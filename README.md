@@ -11,8 +11,6 @@ TECH IMPLIMENTATIONS:
 - open Weather ***API***
    https://hackerthemes.com/kit/
 
-
-
 USERS:
 - Anyone, mostly developers and students
 
