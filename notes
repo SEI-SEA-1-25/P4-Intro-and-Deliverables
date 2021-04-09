@@ -11,12 +11,14 @@ Machine Learning Projects
     - utilize data from realor association (see if i can even access/understand it)
     - build a model that takes in data and predict how much properties will sell for
     - panda 
+    - or make a visualization of prices of homes through the years
 * Image recognition app
 
 Data Driven Projects
 * Netflix Analyzer
     - need to downlaod my viewing activity
     - utilize python and panda in a jupyter notebook
+    - d3.js?
     - make very pretty graphs about how much I watch Community and the Office
 
 More creative and visual based apps (also python)
