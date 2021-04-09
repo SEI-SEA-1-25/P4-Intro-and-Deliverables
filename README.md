@@ -10,7 +10,7 @@ TECH IMPLIMENTATIONS:
 - M.E.R.N. (needs no introduction)
 - open Weather ***API***
 
-   https://rapidapi.com/community/api/open-weather-map?endpoint=53aa6041e4b00287471a2b62
+   <https://rapidapi.com/community/api/open-weather-map?endpoint=53aa6041e4b00287471a2b62>
 - Customize Bootstrap with the theme kit
 How to build your own Bootstrap themes
 
@@ -36,7 +36,9 @@ COULD BE PROBLEMS:
 ***DONE!...*** 
 
 Test - 
-https://rapidapi.com/community/api/open-weather-map?endpoint=53aa6041e4b00287471a2b62
+https://rapidapi.com/community/api/open-weather-map?endpoint=53aa6041e4b00287471a2b62 
+
+( no personal API key required )
 ```js
 // sample code
 
