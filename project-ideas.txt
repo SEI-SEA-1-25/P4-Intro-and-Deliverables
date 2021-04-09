@@ -1,0 +1,32 @@
+## Wednesday Night Deliverable
+
+Spend the evening, solo or with your team, researching and exploring technologies that interest you while brainstorming for your P4.
+
+Come up with **three project ideas** and answer the following questions about ___each___ of them:
+
+1. How do you plan on learning/implementing this new technology?
+2. What is your goal with this project?
+3. Who is the user for your app?
+4. Any potential roadblocks you think you might run into?
+
+Spirograph Generator using D3.js 
+specifically working with paths and transition animations
+1. How do you plan on learning/implementing this new technology? 
+    tutorials 
+2. What is your goal with this project?
+    learn D3
+3. Who is the user for your app?
+    someone who likes spirographs
+4. Any potential roadblocks you think you might run into?
+    d3 is complicated 
+Stretch goals could be incorporating some kind of data to determine the spirograph points 
+and/or setting up users and a database to save/share users spirographs
+
+
+or 
+
+CutUp Generator (this is dada poetry that literally just cuts up text and arranges it spontaneously)
+1. I would maybe consider learning Vue for this project
+2. write logic that chops up text
+3. people who like poetry
+4. words are boring, images are better
