@@ -20,11 +20,12 @@ User stories:
 
 * User inputs static HTML and CSS.
 * They click a button, wait a few seconds, and see the result render on the webpage.
-* User should be able to style up a MULTI-PAGE website with customiable links
+* User should be able to style up a MULTI-PAGE website with customizable links
 	* If this proves difficult, the user should be able to at least fill in a pre-populated set of links (about me, projects, etc.)
+* Github Oauth
 * Great project = more customizability
 * Good project = FREE functionality for end user to build dev portfolio (MVP)
-* Other considerations: Online code editor
+* Stretch considerations: Sanitize HTML before going into DB, Online code editor, styled nicely, versioning of code/compatibility considerations(difficult), analytics on clicked links(reserved for future work)
 
 ![image](images/p4_idea.png)
 
