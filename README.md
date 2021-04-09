@@ -1,10 +1,4 @@
-# <center> #️⃣ ***App Ideas*** - P3
-
----
-
-# <center > ⓵
-
----
+# <center > 
 
 | <center>☀️ weather-UI ☀️
 |-
@@ -17,8 +11,8 @@ TECH IMPLIMENTATIONS:
 - M.E.R.N. (needs no introduction)
 
 USERS:
-- Anyone, probably old guys mostly
+- Anyone, mostly developers and students
 
 COULD BE PROBLEMS:
 - implimenting google APIs ( they are surely reliable but difficult as I understand )
-
+- not sure how to pull this one off
