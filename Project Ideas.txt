@@ -1,0 +1,37 @@
+A visualization of data with D3js:
+    - using data from the Portland Housing API
+    - using plant data to show plants that are good for certain climates
+
+A random date night generator, returning restaurant, movie, activity info
+based on user input and date
+
+A way to use the plant API to create an in-home plant care app, using Swift.
+
+Three ideas:
+    1. Interactive data visualization in D3js, either using existing data, user-input,
+        or API information.
+    2. Night Out app - returning one randomly generated idea for a date/night out
+        based on user-input(location, date, etc.) and APIs 
+    3. Learning Swift to either utilize the Plant API to either create 
+        a game, a care guide, or an informational app.
+
+
+How do you plan on learning/implementing this new technology?
+    1. Diving deep into the D3 docs and examples to learn visualization methods.
+    2. Learning how to implement APIs according to user input to return random info
+    3. Following the swift docs to learn this new programming language
+
+What is your goal with this project?
+    1. To learn an interesting new skill and broaden my knowledge
+    2. To strengthen my understanding of full stack web apps
+    3. To learn a new language that interests me, strengthen my comprehension
+
+Who is the user for your app?
+    1. Anyone that likes to see data presented in a unique and interactive way
+    2. A person that wants to go out but is out of ideas, someone going on a date
+    3. People that are interested in indoor plants
+
+Any potential roadblocks you think you might run into?
+    1. This seems crazy hard! So, a steep learning curve
+    2. Utilizing multiple APIs seems really difficult and time-consuming
+    3. Learning a new language and building a website in a week seems insane!
