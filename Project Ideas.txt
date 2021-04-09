@@ -1,10 +1,6 @@
 A visualization of data with D3js:
-    - time and budget info, inputed by user
-    - song information, or guitar chord relationship, music-related
-    - user takes short food test, return visual data to them based on input
-    - using a beer api to create interactive data
-    - using a sports api to create interactive data
-    - using data from the plant API
+    - using data from the Portland Housing API
+    - using plant data to show plants that are good for certain climates
 
 A random date night generator, returning restaurant, movie, activity info
 based on user input and date

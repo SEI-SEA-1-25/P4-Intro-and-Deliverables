@@ -1,0 +1,10 @@
+As a user, I want to be able to -
+    - Access the site as an informational one-page site.
+    - Learn about the idea behind the project.
+    - Understand what the data is and what it represents.
+    - See the site populated by existing data.
+    - Adjust the existing data and view those changes responsively.
+    - See the information displayed in a variety of visualizations
+         including charts, graphs, and unique data models.
+    - Interact with the data in a way to understand it more clearly.
+    - Click on data for more information, and/or to adjust/move/interact with it.
