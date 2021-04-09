@@ -9,6 +9,7 @@ TECH IMPLIMENTATIONS:
 - Google Weather and Maps APIs
 - SASS (css pre-compiler)
 - M.E.R.N. (needs no introduction)
+- https://hackerthemes.com/kit/
 
 USERS:
 - Anyone, mostly developers and students
