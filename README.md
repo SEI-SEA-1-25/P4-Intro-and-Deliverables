@@ -1,5 +1,5 @@
 # LA Housing Wireframe
-![main](imgs/la_housing_wireframe.PNG)
+![main](imgs/la_housing_wireframe.png)
 
 ### Technology
 * D3.js?
@@ -11,9 +11,9 @@
 
 # Stationary E-commerce
 
-![main](/imgs/ecommerce/front.PNG)
-![main](/imgs/ecommerce/list.PNG)
-![main](/imgs/ecommerce/item_detail.PNG)
+![main](/imgs/ecommerce/front.png)
+![main](/imgs/ecommerce/list.png)
+![main](/imgs/ecommerce/item_detail.png)
 
 ### Technology
 * Flutter w/ Dart
