@@ -1,5 +1,6 @@
 import axios from "axios";
-const rowdyResults = rowdy.begin(app);
+const express = require("express");
+
 const options = {
   method: "GET",
   url: "https://community-open-weather-map.p.rapidapi.com/weather",
@@ -18,7 +19,8 @@ const options = {
     "x-rapidapi-host": "community-open-weather-map.p.rapidapi.com",
   },
 };
-
+console.log(options());
+options();
 axios
   .request(options)
   .then(function (response) {
@@ -27,3 +29,4 @@ axios
   .catch(function (error) {
     console.error(error);
   });
+module.exports = optons;

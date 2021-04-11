@@ -1,10 +1,11 @@
 # <center >
 
-<img src="https://media2.giphy.com/media/k8aCl2VvSeBlRvL7Yf/giphy.gif?cid=5e214886936f38bc795d75080a46c7c1c0ce7bdc0f88320b&rid=giphy.gif&ct=g">
 
 | <center>☀️ weather-UI ☀️
 |-
 | <center>dynamic UI that changes according to local weather and time zone changes
+
+<img src="https://media2.giphy.com/media/k8aCl2VvSeBlRvL7Yf/giphy.gif?cid=5e214886936f38bc795d75080a46c7c1c0ce7bdc0f88320b&rid=giphy.gif&ct=g">
 
 TECH IMPLIMENTATIONS:
 
@@ -27,8 +28,6 @@ COULD BE PROBLEMS:
 
 - implimenting google APIs ( they are surely reliable but difficult as I understand )
 - not sure how to pull this one off
-
-##
 
 TO BE DONE!...
 
