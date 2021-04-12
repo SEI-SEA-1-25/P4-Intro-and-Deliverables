@@ -5,11 +5,11 @@ let weather = {
   apiKey: "7a9e0d0b445ca1be17f7e626ad349281",
   fetchWeather: function (city) {
     fetch(
-      //"https://api.openweathermap.org/data/2.5/find?appid=" + this.apiKey + "&q=" + city + "&units=standard"
       "https://api.openweathermap.org/data/2.5/weather?q=" +
         city +
         "&appid=" +
-        this.apiKey
+        this.apiKey +
+        "&units=imperial"
     )
       .then((response) => {
         if (!response.ok) {
@@ -30,7 +30,7 @@ let weather = {
       "https://openweathermap.org/img/wn/" + icon + ".png";
     document.querySelector(".description").innerText = description;
     let tempVal = (document.querySelector(".temp").innerText = temp + "°F");
-    console.log(tempVal);
+    // console.log(tempVal);
     document.querySelector(".humidity").innerText =
       "Humidity: " + humidity + "%";
     document.querySelector(".wind").innerText = "Wind speed: " + speed + " mph";
@@ -55,7 +55,7 @@ document
       weather.search();
     }
   });
-console.log(weather.fetchWeather("san francisco"));
+// console.log(weather.fetchWeather("san francisco"));
 weather.fetchWeather("san francisco");
 //?      ===========================
 //!           unit conversion
