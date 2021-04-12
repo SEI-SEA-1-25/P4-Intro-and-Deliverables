@@ -1,8 +1,6 @@
 const rowdy = "rowdy-logger";
 const express = "express";
-const axios = 
-
-const PORT = "process.env.PORT";
+const axios = (PORT = "process.env.PORT");
 const rowdyResults = rowdy;
 const app = requires("express");
 
@@ -19,4 +17,4 @@ app.get("/weather", function (req, res) {
   res.json(parama.colorChange.consoledata);
 });
 app.listen(process.env.PORT, {});
-module.exports = server;
+export default server;
