@@ -9,7 +9,8 @@
     <title>Demo</title>
   </head>
 
-  <body class="weatherUI">
+  <body id="weatherUI">
+     <div class="boxed">
   <!-- 
     <div id="parent-id">
       <p>1</p>
@@ -18,26 +19,58 @@
       <p>4</p>
     </div> -->
     <center>
-    <div class="card">
+   <div class="card">
        <div class="search">
-          <input type="text" name="" class="search-bar">
-          <button type="submit">🔎</button>
+        
        </div>
     </div>
 
+
     <div>
-      <h1 class="urth"> <span>  </span> </h1>
     </div>
+    <div class="card">
+      <div class="search">
+        <input type="text" class="search-bar" placeholder="Any Major City">
+        <button id="SwitchColor"><span></span></button>
+      </div>
+      <div class="weather loading">
+        <h2 class="city">Weather in </h2>
+        <h1 class="temp">°F</h1>
+        <div class="flex">
+          <img src="https://openweathermap.org/img/wn/04n.png" alt="" class="icon" />
+          <div class="description"></div>
+        </div>
+        <div class="humidity">Humidity: %</div>
+        <div class="wind">Wind speed:  mi/h</div>
+      </div>
+    </div>
+  
+
+   </div>
    </center>
+   <script>
+
+      const changeBackground = document.getElementById('weatherUI');
+      
+      function switchColor(){
+         const tempColor = document.getElementsByClassName('temp');
+         //<!--!  NEEDS DYNAMIC VARIABLE USING CONDITIONS
+         console.log(tempColor);
+         let degree = tempColor[0].innerText
+         const climateColorCold = 'blue';
+         const climateColorWarm = 'light-orange';
+         const climateColorHot = 'red';
+         let temp = parseFloat(degree)
+         console.log(temp);
+         //<!-- if(tempColor.value ) -->
+
+            console.log("fgd");
+      changeBackground.style.backgroundColor = climateColorCold;
+      }
+      changeBackground.addEventListener('change', switchColor);
+      // This attaches the click event listener to the button
+
+   </script>
   </body>
-  <script>
-   let parentDOM = document.getElementById("parent-id");
-
-   let test = parentDOM.getElementsByClassName("test"); // a list of matching elements, *not* the element itself
-   console.log(test); //HTMLCollection[1]
-
-   let testTarget = parentDOM.getElementsByClassName("test")[0]; // the first element, as we wanted
-   console.log(testTarget); //<p class="test">hello world 2</p>
- </script>
   <script src="index.js"></script>
 </html>
