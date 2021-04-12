@@ -21,7 +21,6 @@
     <center>
    <div class="card">
        <div class="search">
-        
        </div>
     </div>
 
@@ -44,31 +43,11 @@
         <div class="wind">Wind speed:  mi/h</div>
       </div>
     </div>
-  
+
 
    </div>
    </center>
    <script>
-
-      const changeBackground = document.getElementById('weatherUI');
-      
-      function switchColor(){
-         const tempColor = document.getElementsByClassName('temp');
-         //<!--!  NEEDS DYNAMIC VARIABLE USING CONDITIONS
-         console.log(tempColor);
-         let degree = tempColor[0].innerText
-         const climateColorCold = 'blue';
-         const climateColorWarm = 'light-orange';
-         const climateColorHot = 'red';
-         let temp = parseFloat(degree)
-         console.log(temp);
-         //<!-- if(tempColor.value ) -->
-
-            console.log("fgd");
-      changeBackground.style.backgroundColor = climateColorCold;
-      }
-      changeBackground.addEventListener('change', switchColor);
-      // This attaches the click event listener to the button
 
    </script>
   </body>
