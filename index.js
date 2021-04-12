@@ -14,7 +14,7 @@ app.get("/", function (req, res) {
   res.send(console("hello world"));
 });
 app.get("/weather", function (req, res) {
-  res.json(parama.colorChange.consoledata);
+  res.json(parama.colorChange.console.data());
 });
 app.listen(process.env.PORT, {});
 export default server;

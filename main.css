@@ -1,0 +1,100 @@
+body {
+   // background-image: ;
+   background-image: url("rain-icon-png.webp");
+   background-color: #882;
+   background-repeat: no-repeat;
+   background-size: cover;
+   position: relative;
+   padding: 10%;
+
+/* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+   // background: url('')
+}
+input, button {
+   border-radius: 3px;
+   color: rgba(0, 0, 0, 0.8);
+   text-shadow: 1px 0 2px rgba(255, 255, 255, 0.5);
+}
+.urth {
+   font-size: 80px
+}
+span::before { 
+
+            content: "🌎"; 
+
+            animation: animate infinite 1.81s; 
+
+            padding-left: 10px; 
+
+        } 
+
+  
+
+        @keyframes animate { 
+
+  
+
+            15% { 
+
+                content: "🌎"; 
+
+            } 
+
+  
+
+            30% { 
+
+                content: "🌏"; 
+
+            } 
+
+  
+
+            45% { 
+
+                content: "🌍"; 
+
+            } 
+           65% { 
+
+                content: "🌎"; 
+
+            } 
+            80% {
+            content: "🌏";  
+            }
+            { 
+
+  
+
+            20% { 
+
+                content: "🌎"; 
+
+            } 
+
+  
+
+            95% { 
+
+                content: "🌏"; 
+
+            } 
+            { 
+
+  
+
+            70% { 
+
+                content: "🌎"; 
+
+            } 
+
+  
+
+            80% { 
+
+                content: "🌏"; 
+
+            } 
+        } 
