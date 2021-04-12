@@ -1,6 +1,43 @@
-//! ===========================
-//! ===========================
-//! ===========================
+//?     ===========================
+//!           Date & Time
+//?     ===========================
+
+const today = new Date();
+
+const date =
+  today.getFullYear() + "-" + (today.getMonth() + 1) + "-" + today.getDate();
+
+const time =
+  today.getHours() + ":" + today.getMinutes() + ":" + today.getSeconds();
+
+//?!     ===========================
+//!         Convert Time To 12hr
+//?!     ===========================
+
+// let resultElmnt = document.querySelector(".result");
+// //  let BtnEle = document.querySelector(".Btn");
+// let hourElmnt, minuteElmnt;
+// BtnEle.addEventListener("click", () => {
+//   hourElmnt = document.querySelector(".hour").value;
+//   minuteElmnt = document.querySelector(".minute").value;
+//   if (
+//     hourElmnt >= 0 &&
+//     hourElmnt <= 24 &&
+//     minuteElmnt >= 0 &&
+//     minuteElmnt <= 60
+//   ) {
+//     let amOrPm = "AM";
+//     if (hourElmnt > 12) amOrPm = "PM";
+//     hourElmnt = hourElmnt % 12;
+//     resultElmnt.innerText =
+//       "TIME = " + hourElmnt + " : " + minuteElmnt + " " + amOrPm;
+//   }
+// });
+
+//?     ===========================
+//!         Get Weather Info
+//?     ===========================
+
 let weather = {
   apiKey: "7a9e0d0b445ca1be17f7e626ad349281",
   fetchWeather: function (city) {
@@ -20,12 +57,23 @@ let weather = {
       })
       .then((data) => this.displayWeather(data));
   },
+
+  //?     ===========================
+  //!     Display Weather & Date Info
+  //?     ===========================
+
   displayWeather: function (data) {
+    const dateTime = date + " " + time;
+    console.log(today);
+    console.log(date);
+    console.log(time);
+    console.log(dateTime);
     const { name } = data;
     const { icon, description } = data.weather[0];
     const { temp, humidity } = data.main;
     const { speed } = data.wind;
-    document.querySelector(".city").innerText = "Weather in " + name;
+    document.querySelector(".city").innerText =
+      "In  " + name + "\n\nOn  " + date + " / At  " + time;
     document.querySelector(".icon").src =
       "https://openweathermap.org/img/wn/" + icon + ".png";
     document.querySelector(".description").innerText = description;
@@ -57,17 +105,21 @@ document
   });
 // console.log(weather.fetchWeather("san francisco"));
 weather.fetchWeather("san francisco");
-//?      ===========================
-//!           unit conversion
-//?      ===========================
+
+//?     ===========================
+//!          unit conversion
+//?     ===========================
+
 function temperatureConverter(valNum) {
   valNum = parseFloat(valNum);
   document.getElementById("outputFahrenheit").innerText =
     (valNum - 273.15) * 1.8 + 32;
 }
-//?       ===========================
-//!             style change
-//?       ===========================
+
+//?      ===========================
+//!            style change
+//?      ===========================
+
 const changeBackground = document.getElementById("weatherUI");
 
 function switchColor(tempVal) {
@@ -82,12 +134,14 @@ function switchColor(tempVal) {
   // console.log(degree);
   //<!-- if(tempColor.value ) -->
 
-  console.log("fgd");
+  console.log("Log Background Change functionality");
   changeBackground.style.backgroundColor = climateColorWarm;
 }
-//?        ===========================
-//!             This attaches the
-//!           click event listener
-//!               to the button
-//?        ===========================
+
+//?      ===========================
+//!           This attaches the
+//!         click event listener
+//!             to the button
+//?      ===========================
+
 changeBackground.addEventListener("change", switchColor);
