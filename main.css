@@ -41,8 +41,8 @@ body {
    background-repeat: no-repeat;
    box-shadow: inset 0 0 1px yellow, inset 0 0 30px black, inset 0 0 70px black, 0 0 20px rgba(220,220,20,0.15), 0 0 4px rgba(220,20,20,0.15);
    border: 3px solid black;
-   color: rgba(220,220,220,0.6);
-   text-shadow: 1px 1px 6px rgba(2, 5, 5, 1);
+   color: rgba(220,220,220,0.4);
+   text-shadow: 2px 3px 6px rgba(2, 5, 5, 1);
 }
 img {
    display: flex;
