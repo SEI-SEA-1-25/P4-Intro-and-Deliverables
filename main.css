@@ -10,10 +10,23 @@ body {
 #weatherUI {
     background: rgba(100,10,20,0.7);
  }
+ .App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
 .boxed {
-   font-family: american typewriter, courier, avenir;
+   font-family: skia, geneva, american typewriter, courier, avenir;
    margin:20%;
-   width: 70vw;
    border-radius: 50%;
    // padding: 2%;
    position: inherit;
@@ -22,14 +35,22 @@ body {
    border-radius: 18px;
    text-align: center;
    justify-content: center;
-   background-image: url("img/sun.png");
    background-size: 30vw;
-   background-color: rgba(10, 2, 237, 0.5);
+   z-index: 0;
+   background-color: rgba(180, 2, 237, 0.5);
    background-repeat: no-repeat;
    box-shadow: inset 0 0 1px yellow, inset 0 0 30px black, inset 0 0 70px black, 0 0 20px rgba(220,220,20,0.15), 0 0 4px rgba(220,20,20,0.15);
    border: 3px solid black;
    color: rgba(220,220,220,0.6);
-   text-shadow: 1px 1px 2px rgba(2, 5, 5, .61);
+   text-shadow: 1px 1px 6px rgba(2, 5, 5, 1);
+}
+img {
+   display: flex;
+   position: absolute;
+   text-align: center;
+   align-items: center;
+   justify-content: center;
+   z-index: -1;
 }
 input {
    padding: 5%;
@@ -68,37 +89,38 @@ span {
    font-size: 35px;
 }
 span::before {
-            content: "🌎";
+            content: "👋";
             animation: animate infinite 1.81s;
             padding-left: 10px;
         }
+        
         @keyframes animate {
             15% {
-                content: "🌎";
+                content: "✋";
             }
             30% {
-                content: "🌏";
+                content: "🖐";
             }
             45% {
-                content: "🌍";
+                content: "🖖";
             }
             65% {
-                content: "🌎";
+                content: "🖐";
             }
             80% {
-                content: "🌏";
+                content: "✋";
             }
             {
             20% {
-                content: "🌎";
+                content: "🖐";
             }
             95% {
-                content: "🌏";
+                content: "🖖";
             }
             70% {
-                content: "🌎";
+                content: "🖐";
             }
             80% {
-                content: "🌏";
+                content: "✋";
             }
         }

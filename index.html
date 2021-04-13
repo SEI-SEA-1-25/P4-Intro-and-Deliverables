@@ -24,7 +24,7 @@
        </div>
     </div>
 
-
+    <img class="App-logo" src="img/sun.png" alt="the sun!!">
     <div>
     </div>
     <div class="card">
@@ -43,7 +43,20 @@
         <div class="wind">Wind speed:  mi/h</div>
       </div>
     </div>
+    <script>
 
+      
+
+      $location.fetch({
+         handler({ lat, lng }) {
+           const query = `${lat},${lng}`;
+           const url = `https://maps.apple.com/?q=${query}&ll=${query}`;
+           $share.sheet(url);
+         }
+      });
+      console.log(handler);
+
+    </script>
 
    </div>
    </center>
