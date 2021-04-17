@@ -1,0 +1,16 @@
+
+
+Portfolio Site - 
+
+JavaScript (Node.js, Express.js, EJS), Spotify & GitHub APIs
+May 2020 - Present
+
+Server-rendered web app using Express and EJS, written in a modular format for easy maintenance in the future.
+
+Used JAMstack principles to avoid heavy network calls, by storing all external data into a MongoDB Atlas database. The biggest benefit: avoiding
+authenticated requests to external services such as Spotify and GitHub.
+Ongoing development: refactoring the entire site to Next.js and Flow for Static Site Generation and static type checking.
+Introduced LESS preprocessor to enable modularity and code efficiency, leveraging global variables to manage colors and fonts
+
+
+Project One
