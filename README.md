@@ -44,10 +44,8 @@
    </td>
    <td>
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.gif). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+![img](instruct-demo.gif)
 
-
-<img src="images/image1.gif" width="" alt="alt_text" title="image_tooltip">
 
 <p>
 &lt;link href="https://cdn.wui.min.css" rel="stylesheet" crossorigin="anonymous">
@@ -67,9 +65,7 @@
 <strong>All the way at the bottom</strong>
    </td>
    <td>
-<h2><strong><span style="text-decoration:underline;">&lt;script src="https://cdn.jsdelivr.wui.bundle.min.js" crossorigin="anonymous">&lt;/script></span></strong></h2>
-
-
+![img](instruct-demo2.gif)
    </td>
   </tr>
 </table>
