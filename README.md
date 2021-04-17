@@ -79,7 +79,7 @@ If It Worked:
 
 **<span style="text-decoration:underline;">Complete a draft set of bullet points </span>**
 
-
+![img](img/p4demo.gif)
 
 *   Lorem
 *   Ipsum
