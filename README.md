@@ -42,9 +42,10 @@
 <p>
 <strong>“Element” into the head of your html</strong>
    </td>
+    <img src="instruct-demo.gif"/>
    <td>
 
-![img](instruct-demo.gif)
+
 
 
 <p>
@@ -65,7 +66,7 @@
 <strong>All the way at the bottom</strong>
    </td>
    <td>
-![img](instruct-demo2.gif)
+<img src="instruct-demo2.gif"/>
    </td>
   </tr>
 </table>
