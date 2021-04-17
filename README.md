@@ -1,7 +1,7 @@
 # <Weather/UI>
 
 
-**Welcome to the _<span style="text-decoration:underline;">Dynamic</span>_ WeatherUI**
+**Welcome to the _<span style="text-decoration:underline;">Dynamic</span>_ "Weather Data" driven UI theme tool**
 
 ***	*	***
 
