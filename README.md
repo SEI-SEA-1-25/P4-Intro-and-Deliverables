@@ -3,10 +3,10 @@
 ![img](77b13.jpeg)
 ## Welcome to the Dynamic "Weather Data" driven UI theme tool
 
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
-|-- ![gif](bHTJc.gif) -| If you succeeded...\n ![img](img/p4demo.gif) -|
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="900" height="400" />
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="900" height="400" />
+<img src="img/p4demo.gif/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="900" height="400" />
+|-- ![gif](bHTJc.gif) -| If you succeeded...\n ![img]() -|
 ** An Introductory Summary of **
 
 **“The Thing”**
