@@ -3,7 +3,7 @@
 ![img](34.jpeg)
 ## Welcome to the Dynamic "Weather Data" driven UI theme tool
 
-![img](34.jpeg)
+![img](https://media.giphy.com/media/t5uMVQmYffI4QjZRo0/giphy.gif)
 
 ** An Introductory Summary of **
 
