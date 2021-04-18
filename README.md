@@ -2,9 +2,13 @@
 
 ![img](77b13.jpeg)
 ## Welcome to the Dynamic "Weather Data" driven UI theme tool
-
-<center><img alt-"image" src="bHTJc.gif"/></center>
-
+|-
+|<span style="text-decoration:underline;">Instructions</span> 
+|-
+|<img src="instruct-demo2.gif"/>
+|
+|-
+|![img](img/p4demo.gif)
 ** An Introductory Summary of **
 
 **“The Thing”**
@@ -19,7 +23,7 @@
 
 **At vix dīctǽ trǣctatos. Usu cū idque errem modo, mea ad ēnim fugit veƿiām. Āliā vēritus senserit cu seð, eā possit ullamcorper est, fierent ponderūm meī ex. Ex est lǽbītūr delicatīssimi, putǣnt ǽnimǽl medioċrēm ān qui. ōmittantur, ið lucīlius quæesÞiō me**
 
-<span style="text-decoration:underline;">Instructions</span>
+
 
 (  assuming the preliminary steps of making a basic set of web files have been executed  )
 
@@ -42,7 +46,7 @@
 <p>
 <strong>“Element” into the head of your html</strong>
    </td>
-    <img src="instruct-demo.gif"/>
+    
    <td>
 
 
@@ -66,7 +70,7 @@
 <strong>All the way at the bottom</strong>
    </td>
    <td>
-<img src="instruct-demo2.gif"/>
+
    </td>
   </tr>
 </table>
@@ -76,7 +80,7 @@ If It Worked:
 
 **<span style="text-decoration:underline;">Complete a draft set of bullet points </span>**
 
-![img](img/p4demo.gif)
+
 
 *   Lorem
 *   Ipsum
