@@ -3,9 +3,8 @@
 ![img](77b13.jpeg)
 ## Welcome to the Dynamic "Weather Data" driven UI theme tool
 |-
-|<span style="text-decoration:underline;">Instructions</span> 
-|-
-|![img](img/p4demo.gif) | ![gif](bHTJc.gif)
+|
+|- ![img](img/p4demo.gif) -|- ![gif](bHTJc.gif) -|
 ** An Introductory Summary of **
 
 **“The Thing”**
