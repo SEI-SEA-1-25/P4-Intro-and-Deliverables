@@ -5,10 +5,7 @@
 |-
 |<span style="text-decoration:underline;">Instructions</span> 
 |-
-|<img src="instruct-demo2.gif"/>
-|-
-|![img](img/p4demo.gif)
-![gif](bHTJc.gif)
+|![img](img/p4demo.gif) | ![gif](bHTJc.gif)
 ** An Introductory Summary of **
 
 **“The Thing”**
